@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelPrintTool", "LabelPrintTool\LabelPrintTool.csproj", "{625901A0-2640-43B4-8B56-18BFD0B2C6AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeX.DesktopTool", "PrintManager\CodeX.DesktopTool.csproj", "{CCE8B518-496F-4DBD-B121-0C10BFF77938}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_plugin", "_plugin", "{3FB5B05E-72F6-4FCE-93C6-B96794932CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{625901A0-2640-43B4-8B56-18BFD0B2C6AD}.Debug|x86.ActiveCfg = Debug|x86
+		{625901A0-2640-43B4-8B56-18BFD0B2C6AD}.Debug|x86.Build.0 = Debug|x86
+		{625901A0-2640-43B4-8B56-18BFD0B2C6AD}.Release|x86.ActiveCfg = Release|x86
+		{625901A0-2640-43B4-8B56-18BFD0B2C6AD}.Release|x86.Build.0 = Release|x86
+		{CCE8B518-496F-4DBD-B121-0C10BFF77938}.Debug|x86.ActiveCfg = Debug|x86
+		{CCE8B518-496F-4DBD-B121-0C10BFF77938}.Debug|x86.Build.0 = Debug|x86
+		{CCE8B518-496F-4DBD-B121-0C10BFF77938}.Release|x86.ActiveCfg = Release|x86
+		{CCE8B518-496F-4DBD-B121-0C10BFF77938}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{625901A0-2640-43B4-8B56-18BFD0B2C6AD} = {3FB5B05E-72F6-4FCE-93C6-B96794932CDC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+﻿^XA
+^LL260
+^PW900
+^LH2,1^MD8
+^CF020,20
+^FO10,10^FD{ItemName}^FS
+^FO290,10^FD{ItemName}^FS
+^FO570,10^FD{ItemName}^FS
+^FO10,30^BCN,90,Y,N,N^FD{ItemCode}^FS
+^FO290,30^BCN,90,Y,N,N^FD{ItemCode}^FS
+^FO570,30^BCN,90,Y,N,N^FD{ItemCode}^FS
+^PR2
+^XZ

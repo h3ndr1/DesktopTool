@@ -1,0 +1,47 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CodeX.DesktopTool.Print.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LabelPrinterName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ZDesigner GK420T</Value>
+    </Setting>
+    <Setting Name="BarcodeType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Linear</Value>
+    </Setting>
+    <Setting Name="BarcodeValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ItemCode</Value>
+    </Setting>
+    <Setting Name="RemoteDataPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Source\Development\WinApp\BarindoPrint\bin\Debug\Data</Value>
+    </Setting>
+    <Setting Name="DataMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Local</Value>
+    </Setting>
+    <Setting Name="PrintLabelNo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="AutoSaveLogFile" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="CheckPrinterStatusInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="ClearLogFileWhenExit" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CompanyName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PT. Allabare Berkatindo</Value>
+    </Setting>
+    <Setting Name="cnsetting" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=anantha.atisicloud.com,8082;Initial Catalog=ALLABARE;User ID=sa;Password=p455w0rd.&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=anantha.atisicloud.com,8082;Initial Catalog=ALLABARE;User ID=sa;Password=p455w0rd.</Value>
+    </Setting>
+    <Setting Name="UseNetworkPrinter" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
